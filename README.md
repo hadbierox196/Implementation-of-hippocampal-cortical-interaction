@@ -473,29 +473,6 @@ ALL EXPERIMENTS COMPLETE
 
 ---
 
-## Project Structure
-
-```
-complementary-learning-systems/
-│
-├── complementary_learning_systems.py    # Main script
-├── requirements.txt                     # Dependencies
-├── README.md                            # This file
-├── LICENSE                              # MIT License
-│
-├── outputs/                             # Generated figures
-│   ├── cls_learning_curves.png
-│   ├── cls_consolidation_forgetting.png
-│   ├── cls_interference.png
-│   ├── cls_hippocampal_lesion.png
-│   └── cls_comprehensive_analysis.png
-│
-└── docs/                                # Documentation
-    ├── THEORY.md                        # Detailed theory
-    ├── EXPERIMENTS.md                   # Experiment descriptions
-    └── APPLICATIONS.md                  # Real-world applications
-```
-
 ---
 
 ## Mathematical Models
@@ -603,7 +580,7 @@ Contributions are welcome! Here's how:
 MIT License - see [LICENSE](LICENSE) file
 
 ```
-Copyright (c) 2024 [Your Name]
+
 
 Permission is hereby granted, free of charge...
 ```
